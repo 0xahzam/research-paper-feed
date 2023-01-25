@@ -1,0 +1,23 @@
+{
+  "name": "v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@next/font": "13.1.4",
+    "arxiv-api": "^1.1.1",
+    "framer-motion": "^8.5.0",
+    "lottie-web": "^5.10.2",
+    "next": "13.1.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
